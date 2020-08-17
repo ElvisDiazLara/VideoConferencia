@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VideoConferencia</string>
+    <string name="welcome_to">Bienvenido a</string>
+    <string name="video_meeting_conference_app">Video llamada | Aplicación de conferencias</string>
+    <string name="sign_in_to_your_account">Iniciar sesión con su cuenta</string>
+    <string name="email">Email</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Contraseña</string>
+    <string name="password_hint">• • • • • •</string>
+    <string name="sing_in">Ingresar</string>
+    <string name="don_t_have_an_account">¿No tienes una cuenta?</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="we_need_a_few_details_to_get_your_account_ready">Necesitamos algunos detalles para preparar su cuenta.</string>
+    <string name="first_name">Nombre</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="already_have_an_account">¿Ya tienes una cuenta?</string>
+</resources>
